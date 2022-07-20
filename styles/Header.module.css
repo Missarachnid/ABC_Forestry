@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  background-color: black;
+  color: white;
+  font-size: 1.2em;
+  height: 90px;
+  margin: 0;
+  width: 100vw;
+}
+
+#img {
+  padding: 10px auto;
+}
