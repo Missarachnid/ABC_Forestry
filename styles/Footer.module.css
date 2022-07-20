@@ -1,6 +1,6 @@
 .footer {
   display: flex;
-  flex: 1;
+  
   padding: 1rem 0;
   border-top: 1px solid #f3ca45;
   justify-content: space-around;
@@ -8,5 +8,7 @@
   background-color: black;
   color: white;
   font-size: 1.2em;
+  height: 80px;
+  margin-top: auto;
 }
 

@@ -6,7 +6,8 @@ body {
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
     width: 100vw;
     height: 100vh;
-}
+    background-color: #d9e0d1;
+} 
 
 a {
   color: inherit;
@@ -15,4 +16,9 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+#layout {
+  display: flex;
+  flex-direction: column;
 }

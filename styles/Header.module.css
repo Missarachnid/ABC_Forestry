@@ -9,6 +9,8 @@
   height: 90px;
   margin: 0;
   width: 100vw;
+  border-bottom: 1px solid #f3ca45;
+
 }
 
 #img {
