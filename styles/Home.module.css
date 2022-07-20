@@ -1,9 +1,11 @@
 .container {
   padding: 0 2rem;
   width: 100vw;
-  height: 100vh;
   background-color: #d9e0d1;
   color: white;
+  background-image: url('/images/water.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .main {
@@ -14,11 +16,6 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: url('/images/water.jpeg');
-  background-repeat: no-repeat;
-  background-size: cover;
+  
 }
 
-#img {
- margin-top: 100px;
-}
