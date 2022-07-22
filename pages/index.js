@@ -10,7 +10,7 @@ export default function Home() {
       <Head>
         <title>ABC Forestry</title>
         <meta name="description" content="Homepage for ABC Forestry " />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/images/favicon.png" />
       </Head>
       <main className={styles.main}>
         <Image src={logo} alt="Logo of a transparent aspen leaf with white showing the edges. The white becomes the outline of flame on one side and a water droplet on the other" 
